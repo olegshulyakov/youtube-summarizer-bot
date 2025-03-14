@@ -26,4 +26,4 @@ WORKDIR /app
 COPY --from=test /app /app
 COPY --from=test /usr/local/lib/python3.9/site-packages /usr/local/lib/python3.9/site-packages
 
-CMD ["python", "main.py"]
+CMD ["python", "src/main.py"]

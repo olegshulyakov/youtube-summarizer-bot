@@ -2,8 +2,8 @@
 
 import pytest
 
-from factories import SourceFactory
-from sources import YouTubeSource, ArticleSource
+from src.factories import SourceFactory
+from src.sources import YouTubeSource, ArticleSource
 
 
 @pytest.mark.parametrize("url, expected_class", [

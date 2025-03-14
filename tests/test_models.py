@@ -1,6 +1,6 @@
 # tests/test_models.py
 
-from models import Content, SummaryResult
+from src.models import Content, SummaryResult
 
 
 def test_content_creation():

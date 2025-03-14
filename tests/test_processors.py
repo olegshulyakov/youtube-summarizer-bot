@@ -1,8 +1,8 @@
 # tests/test_processors.py
 from unittest.mock import patch, MagicMock
 
-from models import Content
-from processors import TextProcessor
+from src.models import Content
+from src.processors import TextProcessor
 
 
 @patch('processors.pipeline')  # Mock pipeline

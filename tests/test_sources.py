@@ -4,7 +4,7 @@ from unittest.mock import patch, MagicMock
 
 import pytest
 
-from sources import YouTubeSource, ArticleSource
+from src.sources import YouTubeSource, ArticleSource
 
 
 # Tests for YouTubeSource
