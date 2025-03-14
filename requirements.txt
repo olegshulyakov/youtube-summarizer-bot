@@ -1,0 +1,14 @@
+python-telegram-bot
+transformers
+torch
+requests
+beautifulsoup4
+lxml==5.3.1
+langchain-community==0.3.18
+youtube-transcript-api==0.6.3
+langchain-yt-dlp==0.0.8
+yt-dlp==2025.2.19
+pytube==15.0.0
+python-dotenv==1.0.1
+pytest
+pytest-cov
