@@ -1,6 +1,6 @@
 # YouTube & Article Summarizer Bot
 
-This project implements a Telegram bot and a REST API that summarize YouTube videos and web articles. It uses the following technologies:
+This project implements a Telegram bot that summarize YouTube videos and web articles. It uses the following technologies:
 
 * **Python:** The primary programming language.
 * **Telegram Bot API:** For interacting with Telegram.
