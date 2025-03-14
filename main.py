@@ -3,8 +3,8 @@ import os
 
 from dotenv import load_dotenv
 
-from .handlers import TelegramHandler  # Import directly
-from .logger import setup_logger
+from handlers import TelegramHandler
+from logger import setup_logger
 
 logger = setup_logger(__name__)
 

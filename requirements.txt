@@ -1,6 +1,6 @@
 python-telegram-bot
 transformers
-torch
+torch==2.6.0
 requests
 beautifulsoup4
 lxml==5.3.1
